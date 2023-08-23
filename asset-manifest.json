@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-movie/static/css/main.9a85a8ea.css",
+    "main.js": "/React-movie/static/js/main.91e6cb34.js",
+    "static/media/BMDOHYEON_ttf.ttf": "/React-movie/static/media/BMDOHYEON_ttf.d20f6c68004f7588ee16.ttf",
+    "index.html": "/React-movie/index.html",
+    "main.9a85a8ea.css.map": "/React-movie/static/css/main.9a85a8ea.css.map",
+    "main.91e6cb34.js.map": "/React-movie/static/js/main.91e6cb34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a85a8ea.css",
+    "static/js/main.91e6cb34.js"
+  ]
+}
